@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguridadAutomatica", "SeguridadAutomatica\SeguridadAutomatica.csproj", "{FDF9B3D9-E904-47A7-B743-1E2809596726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF9B3D9-E904-47A7-B743-1E2809596726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF9B3D9-E904-47A7-B743-1E2809596726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF9B3D9-E904-47A7-B743-1E2809596726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF9B3D9-E904-47A7-B743-1E2809596726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98327DE6-CD0F-4C84-AE74-6A253A1AF621}
+	EndGlobalSection
+EndGlobal
